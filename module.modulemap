@@ -3,5 +3,8 @@ module CCurl [system] {
     header "sots_curl.h"
     link "curl"
     link "sotscurl"
+}
+module http_parser {
+    header "CurlHealpers.h"
     export *
 }
