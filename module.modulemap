@@ -5,6 +5,7 @@ module CCurl [system] {
     link "sotscurl"
 }
 module http_parser {
+module CurlHealpers {
     header "CurlHealpers.h"
     export *
 }
