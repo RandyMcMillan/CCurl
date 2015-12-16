@@ -6,5 +6,6 @@ module CCurl [system] {
 }
 module CurlHelpers {
     header "CurlHelpers.h"
+    link "curl"
     export *
 }
