@@ -11,3 +11,4 @@ clean:
 
 install:
 	cp $(TARGET) /usr/local/lib/$(TARGET)
+	rm -f *.o *.a $(TARGET)

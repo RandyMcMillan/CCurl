@@ -53,4 +53,3 @@ CURLcode curl_get_msg_result(CURLMsg * msg)
 {
     return msg->data.result;
 }
-

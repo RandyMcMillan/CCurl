@@ -1,3 +1,5 @@
 libsotscurl.a
 sots_curl.o
 .build/
+libsotscurl.a
+sots_curl.o
