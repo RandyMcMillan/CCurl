@@ -92,3 +92,8 @@ Run the app: `.build/debug/app`
 
 [1]: http://curl.haxx.se/libcurl/
 [2]: https://swift.org/package-manager/
+=======
+# Kitura-CurlHelpers
+Shim for libCurl
+
+This shim allows full use of the [cURL](https://curl.haxx.se/) library in Swift
