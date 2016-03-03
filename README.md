@@ -95,5 +95,9 @@ Run the app: `.build/debug/app`
 =======
 # Kitura-CurlHelpers
 Shim for libCurl
+=======
+#CCurl
 
-This shim allows full use of the [cURL](https://curl.haxx.se/) library in Swift
+**C bindings for the libcurl library**
+
+This module map links to the [cURL](https://curl.haxx.se/) library in Swift for the implementation of the HTTP protocol and other networking protocols.
