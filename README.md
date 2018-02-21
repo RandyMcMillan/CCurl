@@ -97,6 +97,7 @@ Run the app: `.build/debug/app`
 Shim for libCurl
 =======
 #CCurl
+=======
 
 **C bindings for the libcurl library**
 
