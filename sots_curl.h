@@ -1,5 +1,6 @@
 #ifndef __SOTS_CURL_H
 #define __SOTS_CURL_H
+
 #ifndef __RKA_CURL_H
 #define __RKA_CURL_H
 
@@ -24,4 +25,5 @@ CURLcode curl_easy_getinfo_slist(CURL *handle, CURLINFO option, struct curl_slis
 CURLcode curl_get_msg_result(CURLMsg * msg);
 CURLcode curl_easy_setopt_string(CURL *curl, CURLoption option, const char *param);
 CURLcode curl_easy_setopt_bool(CURL *curl, CURLoption option, bool param);
+#endif
 #endif
